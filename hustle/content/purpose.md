@@ -1,11 +1,14 @@
 ---
-title: "The purpose of this blog"
+title: "What can you expect from this blog?"
 date: 2023-09-10T14:06:21Z
 draft: False
 ---
 
 # Why I start this blog?
-- Got married this year and began thinking about finance and leaving something for my kids
-- Learn about finance and share my knowledge
-- There's a lot of information out there, there are people trying to sell you a course but I don't have a course to sell to you, I will share my knowledge for free
-- Achieving financial freedom isn't about being rich. It's a necessity. You'll never know if you will ever be fired when you in your 50s. You wouldn't want to be begging for a job then. 
+How to make $10,000 a month is not what this blog is about. School never taught us much about managing our money, doing our taxes or planning for financial freedom.
+
+Through this blog, I want to share with you what I have learnt about personal finance, budgeting for family, insurance policy to protect you and your family, saving for taxes, investing for beginners, estate planning and achieving financial freedom. 
+
+We live in an age with a plethora of information and everyone is trying to sell us a course. I won't have a course to sell you, but I will be sharing the results of what I have learnt. I hope you will find this useful. 
+
+
